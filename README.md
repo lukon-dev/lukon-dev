@@ -6,7 +6,7 @@
 
 ## About me
 
-CS student at UWM, focused on web development. I learn mostly by building things — nothing fancy, just projects that solve actual problems.
+CS student at UWM, focused on web development. I learn mostly by building things, nothing fancy, just projects that solve actual problems.
 
 > 🎯 Looking for a frontend internship.
 
