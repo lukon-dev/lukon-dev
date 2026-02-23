@@ -1,14 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Hi,%20I'm%20Łukasz!&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20CS%20Student&descAlignY=58&descColor=8b949e)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&width=500&lines=Studying+Computer+Science+%40+UWM;Building+projects+to+learn+by+doing;Into+web+development;Looking+for+an+internship+🎯)](https://git.io/typing-svg)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&width=500&lines=Studying+Computer+Science+%40+UWM;Building+projects+to+learn+by+doing;Into+web+development)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-## About me
+## 👨‍💻 About me
 
-CS student at UWM, focused on web development. I learn mostly by building things, nothing fancy, just projects that solve actual problems.
-
-> 🎯 Looking for a frontend internship.
+CS student at UWM, focused on web development. I learn mostly by building things — nothing fancy, just projects that solve actual problems.
 
 ---
 
@@ -28,6 +30,18 @@ CS student at UWM, focused on web development. I learn mostly by building things
 ![JavaScript](https://img.shields.io/badge/JavaScript_advanced-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lukon-dev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e)
+&nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukon-dev&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e)
+
+</div>
 
 ---
 
@@ -55,10 +69,13 @@ CS student at UWM, focused on web development. I learn mostly by building things
 
 ---
 
-
 ## 💬 Contact
 
+<div align="center">
+
 [![Email](https://img.shields.io/badge/Email-lukaszklus2000%40o2.pl-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:lukaszklus2000@o2.pl)
+
+</div>
 
 ---
 
