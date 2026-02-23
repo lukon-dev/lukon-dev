@@ -55,12 +55,6 @@ CS student at UWM, focused on web development. I learn mostly by building things
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lukon-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lukon-dev&layout=compact&theme=tokyonight&hide_border=true)
-
----
 
 ## 💬 Contact
 
