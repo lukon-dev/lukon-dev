@@ -33,18 +33,6 @@ CS student at UWM, focused on web development. I learn mostly by building things
 
 <br>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lukon-dev&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b&area=true&hide_border=true)](https://github.com/lukon-dev)
-
-![Profile Views](https://komarev.com/ghpvc/?username=lukon-dev&style=flat-square&color=58a6ff&label=Profile+views)
-
-</div>
-
-<br>
-
 ## 🏗️ Projects
 
 ### 🎓 ECTS Calculator
